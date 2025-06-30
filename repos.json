@@ -8,7 +8,7 @@
     },
     "isConfiginvendor":true,
     "withKernelSU": false,
-    "useCustomtool":true,
+    "useCustomtool":false,
     "dtbPath":"boot/dts/qcom/sdmmagpie.dtb",
     "toolchains": [
       {
