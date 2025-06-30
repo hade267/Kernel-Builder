@@ -7,7 +7,7 @@
       "device": "spes_note11"
     },
     "isConfiginvendor":true,
-    "withKernelSU": true,
+    "withKernelSU": false,
     "useCustomtool":true,
     "dtbPath":"boot/dts/qcom/sdmmagpie.dtb",
     "toolchains": [
