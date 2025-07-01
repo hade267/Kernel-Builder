@@ -4,7 +4,7 @@
       "name": "MIUI",
       "repo": "https://github.com/TheMatheusDev/karamelsu",
       "branch": "spes-r-oss",
-      "device": "spes_note11"
+      "device": "spes"
     },
     "isConfiginvendor":true,
     "withKernelSU": false,
