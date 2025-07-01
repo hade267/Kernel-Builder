@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "MIUI",
-      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
+      "repo": "https://github.com/TheMatheusDev/karamelsu",
       "branch": "spes-r-oss",
       "device": "spes_note11"
     },
