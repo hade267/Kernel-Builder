@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "MIUI",
-      "repo": "https://github.com/TheMatheusDev/karamelsu",
+      "repo": "https://github.com/mi-sdm680/android_kernel_xiaomi_sm6225",
       "branch": "spes-r-oss",
       "device": "spes"
     },
